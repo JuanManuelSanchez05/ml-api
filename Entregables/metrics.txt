@@ -1,0 +1,16 @@
+Modelo de Clasificación: RandomForestClassifier
+Datos de Entrenamiento: 8260
+Datos de Prueba: 2066
+Métricas de Clasificación:
+              precision    recall  f1-score   support
+
+           0       0.96      0.84      0.90      1064
+           1       0.85      0.96      0.90      1002
+
+    accuracy                           0.90      2066
+   macro avg       0.90      0.90      0.90      2066
+weighted avg       0.91      0.90      0.90      2066
+
+Exactitud de Clasificación: 0.8993223620522749
+
+Modelo de Regresión: RandomForestClassifier
